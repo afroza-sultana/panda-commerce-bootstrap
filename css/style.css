@@ -1,0 +1,22 @@
+.slider-color{
+    background-color: #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    background-color: #ff5096;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.bg-watch{
+    background-color: #ffa500;
+}
+.bg-bag{
+    background-color: #da70d6;
+}
+.bg-shoes{
+    background-color: #0000ff;
+}
